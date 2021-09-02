@@ -1,0 +1,14 @@
+Package: anvil
+Version: 0.1.1
+Architecture: amd64
+Maintainer: Christian Kokoska (info@softcreate.de)
+Depends: python3 (>=3.6), python3-dev (>=3.6)
+Filename: ./anvil_0.1.1.deb
+Size: 2664
+MD5sum: 9786bcf843ed8d3a6bb9f34a3cfe98f4
+SHA1: f42ef291cfb4fb18a7f8cad884ece372f403faca
+SHA256: 48ec4bdf5d1ef6bb05eff991302698a6b0fd5729f1d8ed2084b834199dde93ec
+Section: base
+Priority: optional
+Description: Always at your service!
+
